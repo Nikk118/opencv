@@ -26,7 +26,7 @@ def threshold():
         plt.title(threshTitle[i])
     plt.show()
 
-# image gradient 
+# image gradient there are also type in this 
 def imagegradient():
     root=os.getcwd()
     imgpath=os.path.join(root,'data','car.webp')    
